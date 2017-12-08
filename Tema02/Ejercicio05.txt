@@ -1,0 +1,14 @@
+a)mi carta - Incorreta ya que los espacios no los reconoce
+b)unacarta - Correcta
+c)Mis2escritos - Incorrecta empieza por mayuscula
+d)4cientos - Incorrecta ya que comienza por un numero
+e)es_un_mensaje - Correcta
+f)no_vale nada - Incorreta ya que los espacios no los reconoce
+g)____ejemplo____ - Correcta
+h)mi-prohrama - Correcta
+i)¿cuantos? - Incorrecta las interrogaciones ya que no se reconocen
+j)el%Descontao - Incorrecta ya que el porcentaje no es posible reconocerloo
+k)a200PORAÑO - Correcta
+l)TengoMUCHOS$$$ - Incorrecta ya que empieza por mayuscula
+m)LOS400GOLPES - Igual que la anterior
+n)quieroUNAsolución - Correcta

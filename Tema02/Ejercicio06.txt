@@ -1,0 +1,7 @@
+a)descarta2 - Correcto
+b)cúantosQuerrás - Correcto
+c)çaVaBienAvec$$ - Correcto
+d)Êgresa - Incorrecto comienza por mayuscula y tilde
+e)österreich - Correcto
+f)Ñosÿevan - Incorrecto comienza por mayuscula y lleva un caracter ilegal (ñ)
+g)EsôÇäépù09 - Incorrecto comienza por mayuscula
